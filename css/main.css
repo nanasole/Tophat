@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+html {
+    /* margin: auto,90%;
+    pad: 5px; */
+}
+
+.container {
+    width: 92%;
+    /* margin: 50% auto; */
+    margin: 0 auto;
+    background-color: rgb(129, 177, 177);
+    padding: 2%;
+    margin-top: 2%;
+    /* width: 50%;
+    margin: 90%, auto; */
+}
+
+body {
+    background-color: teal;
+
+}
+
+.nav_bar {
+    text-decoration: none;
+}
+
+.bar {
+
+    text-transform: uppercase;
+    text-align: center;
+    list-style: none;
+}
+
+.member {
+    color: red;
+
+}
+
+.members ul {
+
+
+    list-style: none;
+}
+
+.pad {
+    padding-top: 100px;
+
+}
+
+.bot {
+    padding: 34px;
+}
